@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CurriculoBlazorFab.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CurriculoBlazorFab.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CurriculoBlazorFab.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CurriculoBlazorFab.props",
+      "PackagePath": "build\\CurriculoBlazorFab.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CurriculoBlazorFab.props",
+      "PackagePath": "buildMultiTargeting\\CurriculoBlazorFab.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CurriculoBlazorFab.props",
+      "PackagePath": "buildTransitive\\CurriculoBlazorFab.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
