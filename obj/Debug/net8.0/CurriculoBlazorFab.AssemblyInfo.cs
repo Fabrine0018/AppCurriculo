@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CurriculoBlazorFab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb275f68bc39c2ac1bb18a8bca1ce5b6554ea40c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CurriculoBlazorFab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CurriculoBlazorFab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

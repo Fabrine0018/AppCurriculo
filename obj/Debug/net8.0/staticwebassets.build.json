@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sCm/hig8JXMw1ofw0eiL4gATseOOLqTfBFD9JQSk28M=",
+  "Hash": "iZm1nTL9Fs2mNr0dJSxgXo0ZPIaMwue40oxiW+Y0XT0=",
   "Source": "CurriculoBlazorFab",
   "BasePath": "_content/CurriculoBlazorFab",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CurriculoBlazorFab\\wwwroot",
       "Source": "CurriculoBlazorFab",
-      "ContentRoot": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\",
       "BasePath": "_content/CurriculoBlazorFab",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CurriculoBlazorFab.styles.css",
+      "Identity": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CurriculoBlazorFab.styles.css",
       "SourceId": "CurriculoBlazorFab",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CurriculoBlazorFab",
       "RelativePath": "CurriculoBlazorFab.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CurriculoBlazorFab.styles.css"
+      "OriginalItemSpec": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CurriculoBlazorFab.styles.css"
     },
     {
-      "Identity": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CurriculoBlazorFab.bundle.scp.css",
+      "Identity": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CurriculoBlazorFab.bundle.scp.css",
       "SourceId": "CurriculoBlazorFab",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CurriculoBlazorFab",
       "RelativePath": "CurriculoBlazorFab.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CurriculoBlazorFab.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CurriculoBlazorFab.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\app.css",
       "SourceId": "CurriculoBlazorFab",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\",
       "BasePath": "_content/CurriculoBlazorFab",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "CurriculoBlazorFab",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\",
       "BasePath": "_content/CurriculoBlazorFab",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "CurriculoBlazorFab",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\",
       "BasePath": "_content/CurriculoBlazorFab",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\favicon.png",
       "SourceId": "CurriculoBlazorFab",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fabri\\OneDrive\\Documentos\\IFRO-Atividades\\PDS\\2etapa\\CurriculoBlazorFab\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\",
       "BasePath": "_content/CurriculoBlazorFab",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
