@@ -1,19 +1,92 @@
-﻿@page "/counter"
+﻿@page "/educacao"
 @* @rendermode InteractiveServer *@
 
 <PageTitle> Counter </PageTitle>
-<h2> Educação </h2>
-<hr />
-<p>
-    2019 - 2022 <br>
-    Ensino Fundamental (1º grau). <br>
-    Gonçalves Dias, GD, Brasil.
-</p>
+<style>
 
+    .parent {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        gap: 8px;
+    }
+
+    .div1 {
+        grid-column: span 2 / span 2;
+    }
+
+    .div2 {
+        grid-row: span 2 / span 2;
+        grid-row-start: 2;
+    }
+
+    .div3 {
+        grid-row: span 2 / span 2;
+        grid-row-start: 2;
+    }
+
+    .div4 {
+        grid-column: span 2 / span 2;
+        grid-row-start: 4;
+    }
+
+    .div5 {
+        grid-row-start: 5;
+    }
+
+    .div6 {
+        grid-row-start: 5;
+    }
+</style>
+
+<div class="parent">
+    <div class="div1">
+        <h2> Educação </h2>
+        <hr />
+        <p>
+            2019 - 2022 <br>
+            Ensino Fundamental (1º grau). <br>
+            Gonçalves Dias, GD, Brasil.
+        </p>
+
+        <p>
+            2023 <br>
+            Ensino Médio (2º grau) em andamento. <br>
+            IFRO/ Campus Ji-Paraná, IFRO, Brasil.
+        </p>
+    </div>
+    <div class="div2">
+
+    </div>
+    <div class="div3">3</div>
+    <div class="div4"> 
+        <h2> Habilidades Técnicas </h2>
+        <h5> Soft Skils -  Habilidades comportamentais </h5>
+        <p> Comunicação, trabalho em equipe, liderança, criatividade e hábil pelo aprendizado </p>
+
+        <br>
+        <h5> Hard Skils -  Ferramentas </h5>
+        <p> DESENVOLVIMENTO WEB: HTML (intermediário), CSS (intermediário), JavaScript (básico), PHP (básico) e C# (intermediário)  </p>
+        <p> UX/UI DESIGN: Wireframes (intermediário) e protótipos no Figma (avançado) </p>
+    </div>
+    <div class="div5">5</div>
+    <div class="div6">6</div>
+</div>
+
+<h3> Curso Complementares </h3>
 <p>
-    2023 <br>
-    Ensino Médio (2º grau) em andamento. <br>
-    IFRO/ Campus Ji-Paraná, IFRO, Brasil.
+    2023 - 2023<br>
+    Mini curso introdução ao figma. (Carga horária: 4h).<br>
+    Instituto Federal de Educação Ciência e Tecnologia de Rondônia, IFRO, Brasil.<br>
+    2023 - 2023<br>
+    Minicurso Introdução ao Git e GitHub - 20ª Semana Nacional de Ciência e Tec. (Carga horária: 4h).<br>
+    Instituto Federal de Educação Ciência e Tecnologia de Rondônia, IFRO, Brasil.<br>
+    2023 - 2023<br>
+    Empreendedorismo sustentável: Negócios Sociais - Trilha SEDEPE. (Carga horária: 5h).<br>
+    Inspira JA, IJ, Brasil.<br>
+    2023 - 2023<br>
+    Mini curso - Introdução a Javascript. (Carga horária: 4h).<br>
+    Instituto Federal de Educação Ciência e Tecnologia de Rondônia, IFRO, Brasil.<br>
 </p>
 <hr />
 <h2> Experiência </h2>
@@ -22,31 +95,9 @@
     gerenciamento de Horário e calendários acadêmicos utilizando o Figma, garantindo <br> 
     uma experiência responsiva ao usuário migrar do sistema web para mobile. </p>
 <br>
-<h5> NBS Telecom, JI-PARANÁ — ESTÁGIO </h5>
+<h5> NBS TELECOM, JI-PARANÁ — ESTÁGIO </h5>
 <p> Desenvolvi sistemas com as funcionalidades CRUD (create, read, update e delete) <br> 
     para um banco de dados de gerenciamento de pessoas com as tecnologias <br> 
     em JS, html, css e PHP. </p>
 
 <hr />
-<h2> Habilidades Técnicas </h2>
-<h5> Soft Skils -  Habilidades comportamentais </h5>
-<p> Comunicação, trabalho em equipe, liderança, criatividade e hábil pelo aprendizado </p>
-<br>
-<h5> Hard Skils -  Ferramentas </h5>
-<p> DESENVOLVIMENTO WEB: HTML (intermediário), CSS (intermediário), JavaScript (básico), PHP (básico) e C# (intermediário)  </p>
-<p> UX/UI DESIGN: Wireframes (intermediário) e protótipos no Figma (avançado) </p>
-@* <h1>Counter</h1>
-
-<p role="status">Current count: @currentCount</p>
-
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
-
-@code {
-    private int currentCount = 0;
-
-    private void IncrementCount()
-    {
-        currentCount++;
-    }
-}
- *@

@@ -1,37 +1,58 @@
 ﻿@page "/"
 
-<PageTitle>Home</PageTitle>
+<PageTitle> Curículo </PageTitle>
+<style>
+    .parent {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(2, 0fr);
+        gap: 8px;
+    }
 
-<h1> Fabrine Vinente Velame </h1>
-<h4> Estudante de tecnologia </h4>
-<hr />
-<h2> About Me - Sobre Mim </h2>
-<p> Aspirante a profissional de tecnologia criativa, estou no último <br> ano de um curso técnico em Informática integrado ao ensino médio.</p>
-<p> Dedicada com forte interesse em design UX/UI, na criação de protótipos <br> no Figma, e desenvolvimento web com as tecnologias HTML, CSS e JS. </p>
+    .div1 {
+        grid-column: span 3 / span 1;
+    }
 
-<table>
-    <tbody>
-        <tr>
-            <td> Contato: </td>
-            <td> 69 9 8991-5656 </td>
-        </tr>
-        <tr>
-            <td> Linkedin: </td>
-            <td> Fabrine Vinente </td>
-        </tr>
-        <tr>
-            <td> Local: </td>
-            <td> Ji-Paraná, RO </td>
-        </tr>
-        <tr>
-            <td> Idade: </td>
-            <td> 17 anos </td>
-        </tr>
-        <tr>
-            <td> Idioma:  </td>
-            <td> Português - BR </td>
-        </tr>
-    </tbody>
-</table>
+    .div2 {
+        grid-row-start: 2;
+    }
 
-Welcome to your new app.
+    .div3 {
+        grid-column: span 2 / span 2;
+        grid-row-start: 2;
+        width: 80%;
+        background-color:aliceblue;
+        padding: 16px;
+        border-radius: 8px;
+    }
+
+    .table-contat{
+        width: 100%;
+    }
+</style>
+<div class="parent">
+    <div class="div1">
+        <h1> Fabrine Vinente Velame </h1>
+        <h4> Estudante de tecnologia </h4>
+        <hr />
+    </div>
+    <div class="div2">
+        <h2> Decrição </h2>
+        <p> Aspirante a profissional de tecnologia criativa, estou no último <br> ano de um curso técnico em Informática integrado ao ensino médio.</p>
+        <p> Dedicada com forte interesse em Design UX/UI, na criação de protótipos <br> no Figma, e desenvolvimento web com as tecnologias HTML, CSS e JS. </p>
+    </div>
+    <div class="div3">
+        <h3 style="padding:4px"> Contato </h3>
+        <p> 
+            Telefone: 69 9 8986-1661 <br />
+            Linkedin: Fabrine Vinente  <br />
+            Local: Ji-Paraná, RO <br />
+            Idade: 17 anos <br />
+            Idioma: Português - BR <br />
+        </p>
+       
+    </div>
+</div>
+
+
+

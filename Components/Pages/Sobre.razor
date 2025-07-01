@@ -1,0 +1,61 @@
+﻿@page "/sobre"
+<PageTitle> Sobre Mim </PageTitle>
+<style>
+
+    .parent {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(2, 0fr);
+        gap: 8px;
+    }
+
+    .div1 {
+        grid-column: span 3 / span 3;
+    }
+
+    .div2 {
+        grid-column: span 2 / span 2;
+        grid-row-start: 2;
+    }
+
+    .div3 {
+        justify-content: right;
+        grid-column-start: 3;
+        grid-row-start: 2;
+        width: 80%;
+        background-color: aliceblue;
+        padding: 16px;
+        border-radius: 8px;
+    }
+</style>
+
+<div class="parent">
+    <div class="div1">
+        <h3> Um pouquinho sobre mim 💅💅💅... </h3>
+        <hr />
+    </div>
+    <div class="div2">
+        <h2> Interesses e Hobbies: </h2>
+            <p>
+                - Pintora e desenhista: Rascunho, Guache e minha paixão aquarela <br />
+                - Crocheteira nas horas vagas <br />
+                - Leitoira de misterio e ficção (são meus prediletos) <br />
+                - Gosto de andar de bicicleta <br />
+                - Pratico Karate estilo Shotokan  <br />
+                - Assisto animes, series e filmes variados <br />
+                - Adoro as animações do Studio Ghibli, meu favorito é "O Serviço de Entregas da Kiki" <br />
+                - Determinada, curiosa, criativa e centrada são as palavras que me decrevem <br />
+            </p>
+    </div>
+    <div class="div3">
+        <h2> Minha história </h2>
+        <p> Nasci em Manaus (AM) e vim morar em Ji-Paraná ainda criança com meus pais.
+            Meus parentes maternos e minha mãe são manauaras, e meus parentes paternos e meu pai são baianos e moram aqui em Rondônia <br /> 
+            Em vista disso cresci nessa diversidade de culturas e costumes que moldaram meus gostos, principalmente os culinários!
+            Sempre tive uma casa rodeada de amor, cachorros e incentivo para realizar sonhos.
+        </p>
+    </div>
+</div>
+
+
+
