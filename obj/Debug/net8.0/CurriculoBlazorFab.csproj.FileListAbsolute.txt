@@ -87,3 +87,5 @@ C:\Users\2023102020061\Documents\Git hub clones\AppCurriculo\obj\Debug\net8.0\re
 C:\Users\2023102020061\Documents\Git hub clones\AppCurriculo\obj\Debug\net8.0\CurriculoBlazorFab.pdb
 C:\Users\2023102020061\Documents\Git hub clones\AppCurriculo\obj\Debug\net8.0\CurriculoBlazorFab.genruntimeconfig.cache
 C:\Users\2023102020061\Documents\Git hub clones\AppCurriculo\obj\Debug\net8.0\ref\CurriculoBlazorFab.dll
+C:\Users\2023102020061\Documents\Git hub clones\AppCurriculo\obj\Debug\net8.0\scopedcss\Components\Layout\BaseLayout.razor.rz.scp.css
+C:\Users\2023102020061\Documents\Git hub clones\AppCurriculo\obj\Debug\net8.0\scopedcss\Components\Pages\Curriculo.razor.rz.scp.css

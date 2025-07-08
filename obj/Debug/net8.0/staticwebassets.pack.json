@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\wwwroot\\imagemFabrine.jpeg",
+      "PackagePath": "staticwebassets\\imagemFabrine.jpeg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CurriculoBlazorFab.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

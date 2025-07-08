@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CRs1Eay3IelzSakQ1XPc4ztz+xSivGpTMCSdhRPYYJE=",
+  "Hash": "IrSK60KCqBmQ+0K4lC1VfAq0ut3aq+3Oxn3G8eYKnTQ=",
   "Source": "CurriculoBlazorFab",
   "BasePath": "_content/CurriculoBlazorFab",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\wwwroot\\imagemFabrine.jpeg",
+      "SourceId": "CurriculoBlazorFab",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\wwwroot\\",
+      "BasePath": "_content/CurriculoBlazorFab",
+      "RelativePath": "imagemFabrine.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagemFabrine.jpeg"
     }
   ]
 }

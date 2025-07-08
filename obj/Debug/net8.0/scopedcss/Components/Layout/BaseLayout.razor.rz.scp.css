@@ -1,0 +1,43 @@
+body[b-zh2hg3rwgw] {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: #ffffff;
+    font-family: 'Segoe UI', 'Poppins';
+}
+li[b-zh2hg3rwgw], a[b-zh2hg3rwgw] {
+    font-size: 18px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+header[b-zh2hg3rwgw] {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 20px 15px;
+    background-color: #49c5b6;
+}
+
+.logotipo[b-zh2hg3rwgw] {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.nav-links[b-zh2hg3rwgw]{
+    display: inline-block;
+    padding: 0px 20px
+
+}
+
+.nav-links li a:hover[b-zh2hg3rwgw] {
+    color: #2779a7;
+}
+
+@media(max-width:800px){
+    li[b-zh2hg3rwgw], a[b-zh2hg3rwgw] {
+        font-size: 12px;
+        
+    }
+}

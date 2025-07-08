@@ -1,0 +1,43 @@
+﻿body {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: #ffffff;
+    font-family: 'Segoe UI', 'Poppins';
+}
+li, a {
+    font-size: 18px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 20px 15px;
+    background-color: #49c5b6;
+}
+
+.logotipo {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.nav-links{
+    display: inline-block;
+    padding: 0px 20px
+
+}
+
+.nav-links li a:hover {
+    color: #2779a7;
+}
+
+@media(max-width:800px){
+    li, a {
+        font-size: 12px;
+        
+    }
+}

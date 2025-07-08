@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/2023102020061/Documents/Git hub clones/AppCurriculo/Components/Layout/HeaderMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcSGVhZGVyTWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/2023102020061/Documents/Git hub clones/AppCurriculo/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/2023102020061/Documents/Git hub clones/AppCurriculo/Components/Layout/BaseLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQmFzZUxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-zh2hg3rwgw
+
 [C:/Users/2023102020061/Documents/Git hub clones/AppCurriculo/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-11b583w544
@@ -53,3 +61,7 @@ build_metadata.AdditionalFiles.CssScope = b-11b583w544
 [C:/Users/2023102020061/Documents/Git hub clones/AppCurriculo/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-4mquum1cct
+
+[C:/Users/2023102020061/Documents/Git hub clones/AppCurriculo/Components/Pages/Curriculo.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDdXJyaWN1bG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ni2en9dkni
