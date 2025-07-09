@@ -3,8 +3,9 @@
     "",
     "\\Components",
     "\\Components\\Pages",
+    "\\Properties",
     "\\wwwroot"
   ],
-  "SelectedNode": "\\Components\\Pages\\Counter.razor",
+  "SelectedNode": "\\CurriculoBlazorFab.sln",
   "PreviewInSolutionExplorer": false
 }
