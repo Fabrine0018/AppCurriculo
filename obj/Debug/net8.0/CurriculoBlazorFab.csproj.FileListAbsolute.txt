@@ -89,3 +89,5 @@ C:\Users\2023102020061\Documents\Git hub clones\AppCurriculo\obj\Debug\net8.0\Cu
 C:\Users\2023102020061\Documents\Git hub clones\AppCurriculo\obj\Debug\net8.0\ref\CurriculoBlazorFab.dll
 C:\Users\2023102020061\Documents\Git hub clones\AppCurriculo\obj\Debug\net8.0\scopedcss\Components\Layout\BaseLayout.razor.rz.scp.css
 C:\Users\2023102020061\Documents\Git hub clones\AppCurriculo\obj\Debug\net8.0\scopedcss\Components\Pages\Curriculo.razor.rz.scp.css
+C:\Users\fabri\OneDrive\Documentos\GitHub Clones\CloneAppCurriculo\obj\Debug\net8.0\scopedcss\Components\Layout\BaseLayout.razor.rz.scp.css
+C:\Users\fabri\OneDrive\Documentos\GitHub Clones\CloneAppCurriculo\obj\Debug\net8.0\scopedcss\Components\Pages\Curriculo.razor.rz.scp.css

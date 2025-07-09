@@ -1,77 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\",
+  "WorkspaceRootPath": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\components\\pages\\curriculo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\pages\\curriculo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\components\\pages\\curriculo.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\components\\pages\\curriculo.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\pages\\curriculo.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\components\\pages\\sobre.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\components\\pages\\curriculo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\pages\\curriculo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\components\\pages\\sobre.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\pages\\sobre.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\components\\layout\\baselayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\components\\layout\\baselayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\layout\\baselayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\components\\layout\\headermenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\components\\layout\\headermenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\layout\\headermenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\components\\layout\\baselayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\components\\layout\\baselayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\layout\\baselayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\2023102020061\\documents\\git hub clones\\appcurriculo\\curriculoblazorfab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|c:\\users\\fabri\\onedrive\\documentos\\github clones\\cloneappcurriculo\\curriculoblazorfab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3A46F7A6-181A-4C61-883D-6E91BF5C4CEA}|CurriculoBlazorFab.csproj|solutionrelative:curriculoblazorfab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Components\\Pages\\Weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,36 +90,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Curriculo.razor",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Curriculo.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Curriculo.razor",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Curriculo.razor",
+              "RelativeToolTip": "Components\\Pages\\Curriculo.razor",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-01T18:59:43.962Z",
+              "WhenOpened": "2025-07-09T02:33:29.434Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Routes.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Routes.razor",
-              "RelativeDocumentMoniker": "Components\\Routes.razor",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Routes.razor",
-              "RelativeToolTip": "Components\\Routes.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T18:48:42.723Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\App.razor",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\App.razor",
               "RelativeDocumentMoniker": "Components\\App.razor",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\App.razor",
               "RelativeToolTip": "Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -129,143 +117,154 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "BaseLayout.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Layout\\BaseLayout.razor",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Layout\\BaseLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\BaseLayout.razor",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Layout\\BaseLayout.razor",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Layout\\BaseLayout.razor",
               "RelativeToolTip": "Components\\Layout\\BaseLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T18:28:52.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:28:52.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Curriculo.razor.css",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Curriculo.razor.css",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Curriculo.razor.css",
               "RelativeDocumentMoniker": "Components\\Pages\\Curriculo.razor.css",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Curriculo.razor.css",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Curriculo.razor.css",
               "RelativeToolTip": "Components\\Pages\\Curriculo.razor.css",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-07-08T20:17:14.269Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T18:48:42.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T18:59:43.962Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\_Imports.razor",
               "RelativeToolTip": "Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T23:24:49.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T23:24:49.604Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T18:27:51.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:27:51.059Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T23:24:56.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T23:24:56.796Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Error.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Error.razor",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Error.razor",
               "RelativeToolTip": "Components\\Pages\\Error.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-01T19:24:06.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T19:24:06.783Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Sobre.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Sobre.razor",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Sobre.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Sobre.razor",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Sobre.razor",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Sobre.razor",
               "RelativeToolTip": "Components\\Pages\\Sobre.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-01T19:18:41.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T19:18:41.975Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "BaseLayout.razor.css",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Layout\\BaseLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Layout\\BaseLayout.razor.css",
               "RelativeDocumentMoniker": "Components\\Layout\\BaseLayout.razor.css",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Layout\\BaseLayout.razor.css",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Layout\\BaseLayout.razor.css",
               "RelativeToolTip": "Components\\Layout\\BaseLayout.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-08T19:09:11.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T19:09:11.096Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Counter.razor",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Counter.razor",
               "RelativeToolTip": "Components\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T23:42:29.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T23:42:29.254Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "HeaderMenu.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Layout\\HeaderMenu.razor",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Layout\\HeaderMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\HeaderMenu.razor",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Layout\\HeaderMenu.razor",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Layout\\HeaderMenu.razor",
               "RelativeToolTip": "Components\\Layout\\HeaderMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T19:17:12.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T19:17:12.342Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Weather.razor",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\Components\\Pages\\Weather.razor",
               "RelativeToolTip": "Components\\Pages\\Weather.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -275,9 +274,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "bootstrap.min.css",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\bootstrap\\bootstrap.min.css",
               "RelativeDocumentMoniker": "wwwroot\\bootstrap\\bootstrap.min.css",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\bootstrap\\bootstrap.min.css",
               "RelativeToolTip": "wwwroot\\bootstrap\\bootstrap.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -287,9 +286,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\wwwroot\\app.css",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "wwwroot\\app.css",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\app.css",
               "RelativeToolTip": "wwwroot\\app.css",
               "ViewState": "AgIAABMAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -299,32 +298,13 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "CurriculoBlazorFab.csproj",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\CurriculoBlazorFab.csproj",
+              "DocumentMoniker": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\CurriculoBlazorFab.csproj",
               "RelativeDocumentMoniker": "CurriculoBlazorFab.csproj",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\CurriculoBlazorFab.csproj",
+              "ToolTip": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\CurriculoBlazorFab.csproj",
               "RelativeToolTip": "CurriculoBlazorFab.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-28T23:24:08.362Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Curriculo.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Curriculo.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Curriculo.razor",
-              "ToolTip": "C:\\Users\\2023102020061\\Documents\\Git hub clones\\AppCurriculo\\Components\\Pages\\Curriculo.razor",
-              "RelativeToolTip": "Components\\Pages\\Curriculo.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T18:31:56.87Z",
-              "EditorCaption": ""
             }
           ]
         }
