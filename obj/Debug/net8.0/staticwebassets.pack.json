@@ -17,12 +17,48 @@
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\css.png",
+      "PackagePath": "staticwebassets\\css.png"
+    },
+    {
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\email.png",
+      "PackagePath": "staticwebassets\\email.png"
+    },
+    {
       "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\imagemFabrine.jpeg",
-      "PackagePath": "staticwebassets\\imagemFabrine.jpeg"
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\figma.png",
+      "PackagePath": "staticwebassets\\figma.png"
+    },
+    {
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\github.png",
+      "PackagePath": "staticwebassets\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\html.png",
+      "PackagePath": "staticwebassets\\html.png"
+    },
+    {
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\linguagemC.png",
+      "PackagePath": "staticwebassets\\linguagemC.png"
+    },
+    {
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\linkedin.png",
+      "PackagePath": "staticwebassets\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\perfilFab.png",
+      "PackagePath": "staticwebassets\\perfilFab.png"
+    },
+    {
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\vscode.png",
+      "PackagePath": "staticwebassets\\vscode.png"
+    },
+    {
+      "Id": "C:\\Users\\fabri\\OneDrive\\Documentos\\GitHub Clones\\CloneAppCurriculo\\wwwroot\\whatsapp-fill.png",
+      "PackagePath": "staticwebassets\\whatsapp-fill.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CurriculoBlazorFab.Microsoft.AspNetCore.StaticWebAssets.props",

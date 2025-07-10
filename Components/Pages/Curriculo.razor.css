@@ -4,17 +4,17 @@
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(1, 1fr);
     gap: 8px;
-    margin: 70px;
     place-items: center;
-    color: #17153B;
+    color: #3B0944;
 }
 /* estilo do header */
-body {
-    box-sizing: border-box;
+.main {
+    display: grid;
+    place-items: center;
     margin: 0px;
     padding: 0px;
     background-color: #F7F7F7;
-    color: #17153B;
+    color: #3B0944;
     font-family: 'Poppins', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -45,7 +45,8 @@ header {
 }
 
 .nav-links li a:hover {
-        color: #3B0944;
+        color: #1ABB9C;
+        border-bottom: 2px solid #1ABB9C;
 }
 
 @media(max-width:800px) {
@@ -59,23 +60,22 @@ header {
 .div3 {
     grid-column: span 2 / span 2;
 }
+div h2 {
+    color: #1ABB9C;
+    margin-bottom: 16px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+}
+/* estilo home*/
 .div1 h1 {
     color: #5F1854;
     font-weight: bold;
     font-family: 'Segoe UI'
 }
-div h2 {
-    color: #1ABB9C;
-    margin-bottom: 16px;
-    font-weight: 600;
-    font-size: 2rem;
-    display: flex;
-    justify-content: center;
-}
-/* estulo home*/
 
 .div1 h4 {
-    color: #3B0944;
+    color: #1ABB9C;
     font-weight: 600;
     font-family: 'Segoe UI'
 }
@@ -83,13 +83,15 @@ div h2 {
     display: grid;
     place-items: center;
 }
-#imgPerfil {
-    width: 60%;
+.imgProfile{
+    width: 110%;
     border-radius: 100%;
-    border: 6px solid #3B0944;
 }
-.div2 p {
-    margin-bottom: 24px;
+.home {
+    margin: 60px;
+    width: 76%;
+    display: grid;
+   
 }
 p {
     font-family: 'Segoe UI';
@@ -103,6 +105,7 @@ p {
     grid-template-rows: repeat(1, 1fr);
     gap: 8px;
     margin: 70px;
+    width: 80%;
     padding: 40px 24px;
     place-items: center;
     background-color: #5F1854;
@@ -117,4 +120,98 @@ p {
     display: flex;
     justify-content: center;
 }
-        
+.parent-prof div1 h5 {
+    font-weight: 600;
+    color: #1ABB9C;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.parent div {
+    padding: 16px;
+}
+
+
+/* habilidades tecnicas */
+.habilidades {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 0fr);
+    gap: 8px;
+    margin: 60px;
+    width: 80%;
+    padding: 40px 24px;
+    place-items: center;
+}
+
+.habilidades .div1 {
+    grid-column: span 2 / span 2;
+}
+
+.habilidades .div2 {
+    grid-row-start: 2;
+}
+
+.habilidades .div3 {
+    grid-row-start: 2;
+}
+
+.habilidades div1 h1 {
+    font-weight: 600;
+    color: #1ABB9C;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.habilidades h5 {
+    font-weight: 600;
+    color: #5F1854;
+}
+.habilidades h4 {
+    color: #1ABB9C;
+    font-weight: 600;
+}
+
+.card-imgs {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 8px;      
+}
+.card-imgs img{
+    width: 70%;
+}
+.div-img{
+    display: grid;
+    place-items: center;
+}
+
+.div-img p{
+    color: #3B0944;
+    font-size: 16px;
+}
+/* rodapé */
+footer{
+    background-color: #3B0944;
+    color: #F7F7F7;
+    padding: 24px 24px;
+}
+.img-footer{
+    display:flex;
+    justify-content: left;
+    gap:8px;
+}
+.parent-footer {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 8px;
+}
+
+.parent-footer p {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}

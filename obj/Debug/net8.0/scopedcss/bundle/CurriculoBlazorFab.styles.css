@@ -252,17 +252,17 @@ main[b-11b583w544] {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(1, 1fr);
     gap: 8px;
-    margin: 70px;
     place-items: center;
-    color: #17153B;
+    color: #3B0944;
 }
 /* estilo do header */
-body[b-ni2en9dkni] {
-    box-sizing: border-box;
+.main[b-ni2en9dkni] {
+    display: grid;
+    place-items: center;
     margin: 0px;
     padding: 0px;
     background-color: #F7F7F7;
-    color: #17153B;
+    color: #3B0944;
     font-family: 'Poppins', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -293,7 +293,8 @@ header[b-ni2en9dkni] {
 }
 
 .nav-links li a:hover[b-ni2en9dkni] {
-        color: #3B0944;
+        color: #1ABB9C;
+        border-bottom: 2px solid #1ABB9C;
 }
 
 @media(max-width:800px) {
@@ -307,23 +308,22 @@ header[b-ni2en9dkni] {
 .div3[b-ni2en9dkni] {
     grid-column: span 2 / span 2;
 }
+div h2[b-ni2en9dkni] {
+    color: #1ABB9C;
+    margin-bottom: 16px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+}
+/* estilo home*/
 .div1 h1[b-ni2en9dkni] {
     color: #5F1854;
     font-weight: bold;
     font-family: 'Segoe UI'
 }
-div h2[b-ni2en9dkni] {
-    color: #1ABB9C;
-    margin-bottom: 16px;
-    font-weight: 600;
-    font-size: 2rem;
-    display: flex;
-    justify-content: center;
-}
-/* estulo home*/
 
 .div1 h4[b-ni2en9dkni] {
-    color: #3B0944;
+    color: #1ABB9C;
     font-weight: 600;
     font-family: 'Segoe UI'
 }
@@ -331,13 +331,15 @@ div h2[b-ni2en9dkni] {
     display: grid;
     place-items: center;
 }
-#imgPerfil[b-ni2en9dkni] {
-    width: 60%;
+.imgProfile[b-ni2en9dkni]{
+    width: 110%;
     border-radius: 100%;
-    border: 6px solid #3B0944;
 }
-.div2 p[b-ni2en9dkni] {
-    margin-bottom: 24px;
+.home[b-ni2en9dkni] {
+    margin: 60px;
+    width: 76%;
+    display: grid;
+   
 }
 p[b-ni2en9dkni] {
     font-family: 'Segoe UI';
@@ -351,7 +353,8 @@ p[b-ni2en9dkni] {
     grid-template-rows: repeat(1, 1fr);
     gap: 8px;
     margin: 70px;
-    padding: 24px;
+    width: 80%;
+    padding: 40px 24px;
     place-items: center;
     background-color: #5F1854;
     color: #F7F7F7;
@@ -365,4 +368,98 @@ p[b-ni2en9dkni] {
     display: flex;
     justify-content: center;
 }
-        
+.parent-prof div1 h5[b-ni2en9dkni] {
+    font-weight: 600;
+    color: #1ABB9C;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.parent div[b-ni2en9dkni] {
+    padding: 16px;
+}
+
+
+/* habilidades tecnicas */
+.habilidades[b-ni2en9dkni] {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 0fr);
+    gap: 8px;
+    margin: 60px;
+    width: 80%;
+    padding: 40px 24px;
+    place-items: center;
+}
+
+.habilidades .div1[b-ni2en9dkni] {
+    grid-column: span 2 / span 2;
+}
+
+.habilidades .div2[b-ni2en9dkni] {
+    grid-row-start: 2;
+}
+
+.habilidades .div3[b-ni2en9dkni] {
+    grid-row-start: 2;
+}
+
+.habilidades div1 h1[b-ni2en9dkni] {
+    font-weight: 600;
+    color: #1ABB9C;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.habilidades h5[b-ni2en9dkni] {
+    font-weight: 600;
+    color: #5F1854;
+}
+.habilidades h4[b-ni2en9dkni] {
+    color: #1ABB9C;
+    font-weight: 600;
+}
+
+.card-imgs[b-ni2en9dkni] {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 8px;      
+}
+.card-imgs img[b-ni2en9dkni]{
+    width: 70%;
+}
+.div-img[b-ni2en9dkni]{
+    display: grid;
+    place-items: center;
+}
+
+.div-img p[b-ni2en9dkni]{
+    color: #3B0944;
+    font-size: 16px;
+}
+/* rodapé */
+footer[b-ni2en9dkni]{
+    background-color: #3B0944;
+    color: #F7F7F7;
+    padding: 24px 24px;
+}
+.img-footer[b-ni2en9dkni]{
+    display:flex;
+    justify-content: left;
+    gap:8px;
+}
+.parent-footer[b-ni2en9dkni] {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 8px;
+}
+
+.parent-footer p[b-ni2en9dkni] {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
